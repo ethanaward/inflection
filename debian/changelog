@@ -1,5 +1,5 @@
-inflection (0.3.1-0ubuntu1~ubuntu16.04~ppa2) xenial; urgency=medium
+inflection (0.3.1-1) UNRELEASED; urgency=medium
 
-  * Change licensing
+  * Initial Debian packaging
 
- -- Mycroft Devs <devops@mycroft.ai>  Thu, 25 May 2017 10:06:40 -0500
+ -- Mycroft Devs <devops@mycroft.ai>  Mon, 17 Jul 2017 10:06:40 -0500
